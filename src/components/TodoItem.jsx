@@ -1,3 +1,4 @@
+/* eslint react/prop-types: 0 */
 import { useState } from 'react';
 import styles from '../styles/TodoItem.module.scss'
 

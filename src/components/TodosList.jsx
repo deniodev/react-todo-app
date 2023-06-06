@@ -1,3 +1,4 @@
+/* eslint react/prop-types: 0 */
 import TodoItem from "./TodoItem";
 
 const TodosList = ({ todosProps, handleChange, delTodo }) => {

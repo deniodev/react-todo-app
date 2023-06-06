@@ -1,3 +1,5 @@
+/* eslint react/prop-types: 0 */
+
 import { useState } from 'react';
 const InputTodo = ({ addTodoItem }) => {
     const [title, setTitle] = useState('');
